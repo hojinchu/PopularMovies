@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.0'
+
+    defaultConfig {
+        applicationId "com.nanodegree.android.popularmovies"
+        minSdkVersion 17
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+
+    /* Add 15.08.31 16:32
+    * */
+    repositories{
+        mavenCentral()
+    }
+
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.0.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.android.support:design:23.0.0'
+    compile 'com.github.bumptech.glide:glide:3.6.0'
+    compile 'com.android.support:recyclerview-v7:23.0.0'
+    /* Add 15.08.31 16:33
+    * */
+    compile 'com.android.support:cardview-v7:23.0.0'
+    /**
+     * Add 15.9.11 12:08
+     */
+    compile 'org.solovyev.android.views:linear-layout-manager:0.5@aar'
+    /**
+     * Add 15.9.11 15:32
+     */
+    compile 'com.android.support:gridlayout-v7:23.0.0'
+}

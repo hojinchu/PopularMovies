@@ -1,0 +1,105 @@
+<resources
+    xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Popular Movies</string>
+
+    <!-- 액티비티 타이틀-->
+    <string name="title_action_settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_detail_information">Overview</string>
+        <!--Add 15.9.11 10:44 -->
+    <string name="title_detail_videos">Videos</string>
+    <string name="title_detail_reviews">Reviews</string>
+
+    <string name="title_favorites">Show/Hide Favorites</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Settings-->
+    <string name="pref_order_key">order</string>
+
+    <string name="pref_order_popularity">Popularity DESC</string>
+    <string name="pref_order_popularity_label">By Popularity</string>
+
+    <string name="pref_order_rating">Vote_Average DESC</string>
+    <string name="pref_order_rating_label">By Rating</string>
+
+    <!-- urls -->
+    <string name="base_moviedb_url">http://api.themoviedb.org/3/discover/movie</string>
+    <!--  번역하지 않아야 하는 메시지 부분 표시
+
+            종종 문자열에 다른 언어로 번역하지 않아야 하는 텍스트가 포함되어 있습니다. 일반적인 예로는 코드, 값의 자리 표시자, 특수 기호, 이름 등이 있습니다.
+            번역할 문자열을 준비할 때 번역하지 않고 그대로 두어야 하는 텍스트를 찾아 표시하여 번역사가 해당 텍스트를 변경하지 않도록 하십시오.
+
+            번역하지 않아야 하는 텍스트를 표시하려면 <xliff:g> 자리 표시자 태그를 사용하십시오. 다음은 번역하는 과정에서 "%1$s" 텍스트가 변경되지 않도록 하는 태그입니다.
+            (그렇지 않으면 메시지가 깨질 수 있습니다.) -->
+    <string name="base_movieposter_url">http://image.tmdb.org/t/p/w185<xliff:g id="movie_id">%1$s</xliff:g></string>
+    <string name="base_moviebackdrop_url">http://image.tmdb.org/t/p/w780<xliff:g id="movie_id">%1$s</xliff:g></string>
+        <!--Add 15.9.10 11:50 -->
+    <string name="base_youtube_url">http://www.youtube.com/watch?v=<xliff:g id="video_key">%1$s</xliff:g></string>
+        <!--Add 15.09.14 14:38-->
+    <string name="base_movievideo_url">http://api.themoviedb.org/3/movie/<xliff:g id="movie_id">%1$s</xliff:g>/videos</string>
+        <!--Add 15.09.14 23:57-->
+    <string name="base_moviereview_url">http://api.themoviedb.org/3/movie/<xliff:g id="movie_id">%1$s</xliff:g>/reviews</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- url headers-->
+    <string name="url_sortBy_key">sort_by</string>
+    <string name="url_sortBy_value">popularity.desc</string>
+    <string name="url_api_key_key">api_key</string>
+    <string name="url_api_key_value">47bba009497a15ac99c0205da8a21530</string>
+
+    <string name="sync_account_type">popularmovies.android.nanodegree.com</string>
+    <string name="content_authority">com.nanodegree.android.popularmovies</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- detail strings -->
+    <string name="movie_rating">User Rating: <xliff:g id="movie_id">%1$s</xliff:g>/10</string>
+    <string name="release_date">Release: <xliff:g id="movie_id">%1$s</xliff:g></string>
+        <!--Add 15.9.9 15:48-->
+    <string name="no_movies">There are no movies in this list!</string>
+        <!--Add 15.9.14 11:09-->
+    <string name="no_videos">There are no videos currentlh available for this movie!!</string>
+        <!--Add 15.9.14 15:43-->
+    <string name="content_shorten"><xliff:g id="movie_id">%1$s</xliff:g>...(click for more)</string>
+    <string name="no_reviews">There are no riviews currently available for this movie...</string>
+
+    <string name="overview">요약 : </string>
+
+
+    <!-- Add 15.9.14 10:32-->
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <!--Add 15.9.14 14:17 menus-->
+    <string name="menu_share">Share</string>
+        <!--Add 15.9.14 14:41-->
+    <string name="default_share_message">유명한 영화는 대단하다!</string>
+
+    <!-- Add 15.09.14 16:38 Toasts-->
+    <string name="hiding_favorites">Now Showing all titles</string>
+    <string name="showing_favorites">Now Showing only your favorites</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
