@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/classes-ac47f19d7f9b9c9a66c67071c992235fceb08c5b.jar" />
+    </item>
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/classes-fc4c6fcca6593ba60e25df74d2a1ee0f63e4aaad.jar" />
+    </item>
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/classes-91669a12423fdf126ae558df1451fbfa84146ee2.jar" />
+    </item>
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/classes-a1ce9290f4e7ab505c97705fac56cf4dd18c3684.jar" />
+    </item>
+    <item
+        jar="/home/hojin/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-b90b0e74a4b7f6723ca5f984e235ccb0605e7b59.jar" />
+    </item>
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/org.solovyev.android.views/linear-layout-manager/0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d9e195d6fd00f4f938e173bfee6c621fb26480f5">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/classes-45b33ee7b7fcc74f7eee2558b896dfbeaabf1ace.jar" />
+    </item>
+    <item
+        jar="/home/hojin/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-436461974e93fb85dac3109d03d6ce8014d16c59.jar" />
+    </item>
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/classes-079ed620bbad4eb3a80a17629debd584c2b14f39.jar" />
+    </item>
+    <item
+        jar="/home/hojin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/glide-3.6.0-187c61ee7223f5879021799fa456e5e50efff531.jar" />
+    </item>
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/classes-9660a6462ba6d600bb4125da122f026c337cb72c.jar" />
+    </item>
+    <item
+        jar="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/hojin/문서/Android Developer Nanodegree/download/잠시/이름 없는 폴더 3/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-3db939c01bca4ade2dd89b787ccd493758064712.jar" />
+    </item>
+
+</items>

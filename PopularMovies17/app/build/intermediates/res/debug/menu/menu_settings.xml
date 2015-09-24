@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nanodegree.android.popularmovies.ui.SettingsActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
+<!-- From: file:/home/hojin/문서/Android%20Developer%20Nanodegree/download/잠시/이름%20없는%20폴더%203/PopularMovies/app/src/main/res/menu/menu_settings.xml -->

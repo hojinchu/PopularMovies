@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
+    android:contentAuthority="@string/content_authority"
+    android:accountType="@string/sync_account_type"
+    android:userVisible="false"
+    android:supportsUploading="false"
+    android:allowParallelSyncs="false"
+    android:isAlwaysSyncable="true">
+</sync-adapter><!-- From: file:/home/hojin/문서/Android%20Developer%20Nanodegree/download/잠시/이름%20없는%20폴더%203/PopularMovies/app/src/main/res/xml/syncadapter.xml -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListPreference
+        android:title="Sort By"
+        android:key="order"
+        android:defaultValue="Poppularity DESC"
+        android:entryValues="@array/pref_order_values"
+        android:entries="@array/pref_order_options"/>
+</PreferenceScreen><!-- From: file:/home/hojin/문서/Android%20Developer%20Nanodegree/download/잠시/이름%20없는%20폴더%203/PopularMovies/app/src/main/res/xml/pref_general.xml -->

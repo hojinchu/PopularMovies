@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Edit 15.9.9 16:42-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="180dp"
+        android:id="@+id/movie_poster">
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/favorite_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:paddingEnd="10dp"
+        android:paddingBottom="10dp"
+        android:visibility="invisible"
+        android:src="@drawable/favorite_blue"/>
+
+</RelativeLayout>
+
+
+<!-- From: file:/home/hojin/문서/Android%20Developer%20Nanodegree/download/잠시/이름%20없는%20폴더%203/PopularMovies/app/src/main/res/layout/item_movie.xml -->

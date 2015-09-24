@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:state_activated="true"
+            android:drawable="@color/colorPrimary"/>
+        <item android:state_pressed="true"
+            android:drawable="@color/colorPrimary"/>
+        <item android:drawable="@android:color/transparent"/>
+    </selector>
+</selector><!-- From: file:/home/hojin/문서/Android%20Developer%20Nanodegree/download/잠시/이름%20없는%20폴더%203/PopularMovies/app/src/main/res/drawable/selector.xml -->
